@@ -19,11 +19,9 @@ Untuk menjalankan aplikasi ini dapat dibuka melalui file DaftarMahasiswa.jar yan
 
 ### Result
 
-<img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/addDataSuccess.jpg"> 
-<img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/addDataFail.jpg"> 
-<br/>
-<img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateSuccess.jpg"> 
-<img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateFailed.jpg"> 
-<br/>
-<img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/delete.jpg"> 
+<img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/addDataSuccess.jpg"> <br/>
+<img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/addDataFail.jpg"> <br/>
+<img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateSuccess.jpg"> <br/>
+<img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateFailed.jpg"> <br/>
+<img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/delete.jpg"> <br/>
 

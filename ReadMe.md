@@ -15,7 +15,7 @@ Materi latihan dari kode di repositori ini dapat di temukan di file  [Module 5 -
 
 ### Usage
 
-Untuk menjalankan aplikasi ini dapat dibuka melalui file DaftarMahasiswa.jar yang ada pada folder [dist](https://github.com/azarnuzy/LATIHAN5DPBO2022.git/dist/):
+Untuk menjalankan aplikasi ini dapat dibuka melalui file DaftarMahasiswa.jar yang ada pada folder [dist](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/dist):
 
 ### Result
 

@@ -18,10 +18,19 @@ Materi latihan dari kode di repositori ini dapat di temukan di file  [Module 5 -
 Untuk menjalankan aplikasi ini dapat dibuka melalui file DaftarMahasiswa.jar yang ada pada folder [dist](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/dist):
 
 ### Result
-
-- ![Add Data Succes](https://github.com/azarnuzy/LATIHAN5DPBO2022/blob/master/ScreenShot/addDataSuccess.jpg)     
-- ![Add Data Fail](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/addDataFail.jpg)      
-- ![Update Data Success](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateSuccess.jpg)       
-- ![Update Data Fail](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateFailed.jpg)        
-- ![Delete Data](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/delete.jpg)     
+<p align="center">
+![Add Data Succes](https://github.com/azarnuzy/LATIHAN5DPBO2022/blob/master/ScreenShot/addDataSuccess.jpg) 
+</p>
+<p align="center">
+![Add Data Fail](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/addDataFail.jpg) 
+</p>
+<p align="center">
+![Update Data Success](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateSuccess.jpg) 
+</p>
+<p align="center">
+![Update Data Fail](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateFailed.jpg) 
+</p>
+<p align="center">
+![Delete Data](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/delete.jpg) 
+</p>
 

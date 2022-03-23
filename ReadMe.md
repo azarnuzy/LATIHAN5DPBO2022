@@ -19,18 +19,19 @@ Untuk menjalankan aplikasi ini dapat dibuka melalui file DaftarMahasiswa.jar yan
 
 ### Result
 <p align="center">
-![Add Data Succes](https://github.com/azarnuzy/LATIHAN5DPBO2022/blob/master/ScreenShot/addDataSuccess.jpg) 
+    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/blob/master/ScreenShot/addDataSuccess.jpg">
 </p>
 <p align="center">
-![Add Data Fail](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/addDataFail.jpg) 
+    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/addDataFail.jpg">
 </p>
 <p align="center">
-![Update Data Success](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateSuccess.jpg) 
+    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateSuccess.jpg">
 </p>
 <p align="center">
-![Update Data Fail](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateFailed.jpg) 
+    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateFailed.jpg">
+
 </p>
 <p align="center">
-![Delete Data](https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/delete.jpg) 
+    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/delete.jpg">
 </p>
 

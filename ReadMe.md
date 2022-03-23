@@ -19,19 +19,19 @@ Untuk menjalankan aplikasi ini dapat dibuka melalui file DaftarMahasiswa.jar yan
 
 ### Result
 <p align="center">
-    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/blob/master/ScreenShot/addDataSuccess.jpg" style="height:500px">
+    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/blob/master/ScreenShot/addDataSuccess.jpg" style="height:500px;">
 </p>
 <p align="center">
-    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/addDataFail.jpg" style="height:500px">
+    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/addDataFail.jpg" style="height:500px;">
 </p>
 <p align="center">
-    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateSuccess.jpg" style="height:500px">
+    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateSuccess.jpg" style="height:500px;">
 </p>
 <p align="center">
-    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateFailed.jpg" style="height:500px">
+    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/updateFailed.jpg" style="height:500px;">
 
 </p>
 <p align="center">
-    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/delete.jpg" style="height:500px">
+    <img src="https://github.com/azarnuzy/LATIHAN5DPBO2022/tree/master/ScreenShot/delete.jpg" style="height:500px;">
 </p>
 
